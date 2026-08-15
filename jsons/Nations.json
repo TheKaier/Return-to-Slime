@@ -1,0 +1,33 @@
+[
+
+	{
+		"name": "Barbarians",
+		"outerColor": [255,255,255],
+        "innerColor": [255,255,255],
+		"uniques": [
+		"Excluded from map editor",
+
+		//"Instantly provides [1] [Slime Knowledge]",
+		//"Provides [1] [Slime Knowledge] <when above [49] [Slime Knowledge]>",
+		"Provides [1] [Slime Knowledge] <when above [29] [Slime Knowledge]> <when number of [[King Slime] Units] is less than [1]> <when number of [[[Queen Slime - Phase 1] Units] + [[Queen Slime - Phase 2] Units]] is less than [1]> <when number of [[The Slime God Core] Units] is less than [1]>",
+		"Provides [1] [Gel] <when below [1] [Gel]>",
+
+		"Free [King Slime] appears <when above [49] [Slime Knowledge]> <when below [150] [Slime Knowledge]> <when number of [[King Slime] Units] is less than [1]> <upon turn end>",
+		"Free [Queen Slime - Phase 1] appears <when above [199] [Slime Knowledge]> <when below [300] [Slime Knowledge]> <when number of [[[Queen Slime - Phase 1] Units] + [[Queen Slime - Phase 2] Units]] is less than [1]> <upon turn end>",
+		"Free [The Slime God Core] appears <when above [349] [Slime Knowledge]> <when number of [[The Slime God Core] Units] is less than [1]> <upon turn end>",
+		
+
+
+
+
+
+
+
+
+
+
+		
+		]
+	}
+
+]

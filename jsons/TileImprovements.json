@@ -1,0 +1,28 @@
+[
+
+	{
+		"name": "Barbarian encampment",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Unpillagable",
+			"Unbuildable",
+
+		],
+	},
+	
+	
+	
+	
+	
+	{
+		"name": "Remove Gelatinous Terrain",
+		"turnsToBuild": 4,
+		//"techRequired": "Starting tech",
+		"uniques": ["Can be built outside your borders",
+		
+		
+		],
+	},
+	
+	
+]

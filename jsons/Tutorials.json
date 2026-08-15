@@ -1,0 +1,43 @@
+[
+    {
+        "name":"Return to Slime",
+        "civilopediaText":[
+        {
+                "text": "Click on the link to join the Group Chat Return to Slime - Mod Making Group"
+                "link":"http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Wlqs8kMiZiu0w7x8eP715LLO6MRdA3PN&authKey=LbFZlMGWONCZB0iUM6srHa%2B%2FHF393Cwo%2BnBFk7LbZxRm%2BX%2BzL%2BDGTqTMHU%2FJnryH&noverify=0&group_code=959381334",
+                "size":20,
+                "starred":true,
+                "color":"#FFFF00"
+            },
+            
+  { "text": "Devouring Gel", "size": 30 },
+  { "text": "The Slime King devours adjacent low-level slimes to restore its own health.", "size": 20 },
+  { "text": "Tremor Stomp", "size": 30 },
+  { "text": "The Slime King deals area-of-effect damage in a 1-ring radius.", "size": 20 },
+  { "text": "Burrow Transfer", "size": 30 },
+  { "text": "Every turn, the Slime King randomly teleports to a tile within a 3-tile range.", "size": 20 },
+  { "text": "Gel Polymerization", "size": 30 },
+  { "text": "As the Slime King's health decreases, it releases low-level slimes.", "size": 20 },
+  { "text": "Burst Gel", "size": 30 },
+  { "text": "The Slime Queen summons Bouncy, Flying, and Crystal Slimes within a 2- to 4-tile range.", "size": 20 },
+  { "text": "Crystal Storm", "size": 30 },
+  { "text": "The Slime Queen deals area-of-effect damage in a 1-ring radius.", "size": 20 },
+  { "text": "Holy Leap", "size": 30 },
+  { "text": "Every turn, the Slime Queen randomly teleports to a tile within a 3-tile range.", "size": 20 },
+  { "text": "Holy Radiance", "size": 30 },
+  { "text": "As the Slime Queen's health decreases, it gains increased attack and movement power.", "size": 20 },
+  { "text": "Gel Guardian", "size": 30 },
+  { "text": "The Slime God has Ebony Guardians and Blood Guardians. While the guardians are alive, it gains high defense.", "size": 20 },
+  { "text": "Withering Gel", "size": 30 },
+  { "text": "The Slime God charges power. Ebony Guardians can convert hostile units within a 2-tile range into slimes.", "size": 20 },
+  { "text": "Pure Gel", "size": 30 },
+  { "text": "The Slime God charges power. Blood Guardians can seize control of hostile units within a 3-tile range.", "size": 20 },
+  { "text": "Arcane Resonance", "size": 30 },
+  { "text": "After losing its Ebony Guardians and Blood Guardians, the Slime God deals true damage to enemies within a 2-tile range and summons new Ebony Guardians and Blood Guardians.", "size": 20 }
+
+
+            
+        ]
+    }
+    
+]

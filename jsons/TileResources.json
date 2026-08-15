@@ -1,0 +1,45 @@
+[
+    
+	{
+		"name": "Gel",//
+		"resourceType": "Strategic",
+		"uniques": [
+		//"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        "Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "Slime Knowledge",//
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		"Stockpiled"//库存
+        "Not shown on world screen",//不显示
+		]
+	},
+	{
+		"name": "Slime Knowledge Show",//
+		"resourceType": "Strategic",
+		"uniques": [
+		"Cannot be traded"//不能交易
+		//"Stockpiled"//库存
+        //"Not shown on world screen",//不显示
+		]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

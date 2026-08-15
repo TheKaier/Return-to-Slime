@@ -1,0 +1,29 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+   "Provides [1] [Slime Knowledge Show] <for every [[[Slime Knowledge] resource of [Barbarians] Civilizations]]>",
+    
+
+    
+    
+    ],
+    "unitUniques": [
+    //"Trigger the function [Retrace:WitheringGel] with [0] <for [1] movement> <hidden from users>",//群体转换夺取
+   //"Trigger the function [Retrace:BurstGel] with [0] <for [1] movement> <hidden from users>",//女王刷兵
+   //"Trigger the function [Retrace:PureGel] with [0] <for [1] movement> <hidden from users>"//视野内心控
+    //"Trigger the function [Retrace:DevouringGel] with [0] <for [1] movement> <hidden from users>"//史莱姆王吞噬
+    //"Trigger the function [Retrace:BurrowTransfer] with [0] <for [1] movement> <hidden from users>"//史莱姆王潜地
+    //"Trigger the function [Retrace:ArcaneResonance] with [0] <for [1] movement> <hidden from users>"//范围真伤
+    "No defensive terrain bonus <for [Slime] units>",
+    "May travel on Water tiles without embarking <for [Slime] units>",
+    "Turn this tile into a [Gelatinous Terrain] tile <upon entering a [non-[Gelatinous Terrain]] tile> <for [Slime] units>",
+    "Free [Information Carrier] appears <upon defeating a [Military] unit> <for [Slime] units>",
+    "[This Unit] is destroyed <when above [0] [Gel]> <upon turn start> <for [{non-[Slime]} {Civilian}] units>",
+    "[This Unit] is destroyed <when below [1] [Gel]> <upon turn start> <for [Slime] units>",
+
+
+
+
+    
+    ]
+}

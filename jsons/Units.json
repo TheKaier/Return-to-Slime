@@ -1,0 +1,481 @@
+[
+    /*
+    {
+        "name": "xxxxxxxxx",
+        "unitType": "Slime",
+        "movement": 1,
+        "strength": 5,
+        "cost": 10,
+        "uniques": [
+        "Only available <when above [0] [Slime Knowledge]>",
+        "[+25] Max HP"
+        ],
+        "promotions": ["Slime"]
+    },
+    */
+    {
+        "name": "Green Slime",
+        "unitType": "Primal Slime",
+        "movement": 1,
+        "strength": 6,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [-1] [Slime Knowledge]> <when below [20] [Slime Knowledge]>",
+            "[+25] Max HP",
+            "Free [Blue Slime] appears <upon gaining the [Time 0] promotion>",
+			"[This Unit] is destroyed <upon gaining the [Time 0] promotion>",
+            "Free [Information Carrier] appears <upon gaining the [Time 0] promotion>"
+        ],
+        "promotions": ["Time 6","Primal Slime"]
+    },
+    {
+        "name": "Blue Slime",
+        "unitType": "Primal Slime",
+        "movement": 2,
+        "strength": 8,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [9] [Slime Knowledge]> <when below [30] [Slime Knowledge]>",
+            "[+25] Max HP",
+            "Free [Sand Slime] appears <upon entering a [Desert] tile>",
+			"[This Unit] is destroyed <upon entering a [Desert] tile>",
+            "Free [Information Carrier] appears <upon entering a [Desert] tile>",
+            "Free [Ice Slime] appears <upon entering a [Tundra] tile>",
+			"[This Unit] is destroyed <upon entering a [Tundra] tile>",
+            "Free [Information Carrier] appears <upon entering a [Tundra] tile>",
+            "Free [Ice Slime] appears <upon entering a [Snow] tile>",
+			"[This Unit] is destroyed <upon entering a [Snow] tile>",
+            "Free [Information Carrier] appears <upon entering a [Snow] tile>",
+            "Free [Mother Slime] appears <upon defeating a [Military] unit>",
+			"[This Unit] is destroyed <upon defeating a [Military] unit>"
+
+        ],
+        "promotions": ["Primal Slime"]
+    },
+    {
+        "name": "Ice Slime",
+        "unitType": "Primal Slime",
+        "movement": 2,
+        "strength": 12,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [29] [Slime Knowledge]> <when below [150] [Slime Knowledge]>",
+            "[+50] Max HP",
+            "Double movement in [Tundra]",
+            "Double movement in [Snow]"
+        ],
+        "promotions": ["Time 10","Primal Slime"]
+    },
+    {
+        "name": "Sand Slime",
+        "unitType": "Primal Slime",
+        "movement": 2,
+        "strength": 12,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [29] [Slime Knowledge]> <when below [150] [Slime Knowledge]>",
+            "[+50] Max HP",
+            "Double movement in [Desert]"
+        ],
+        "promotions": ["Time 10","Primal Slime"]
+    },
+    {
+        "name": "Mother Slime",
+        "unitType": "Primal Slime",
+        "movement": 2,
+        "strength": 14,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [29] [Slime Knowledge]> <when below [150] [Slime Knowledge]>",
+            "[+100] Max HP",
+            "Free [Baby Slime] appears <upon being defeated>",
+            "Free [Baby Slime] appears <upon being defeated>",
+            "Free [Baby Slime] appears <upon being defeated>"
+        ],
+        "promotions": ["Time 10","Primal Slime"]
+    },
+    {
+        "name": "Baby Slime",
+        "unitType": "Primal Slime",
+        "movement": 1,
+        "strength": 7,
+        "cost": 10,
+        "uniques": [
+            "Never appears as a Barbarian unit",
+            "[-25] Max HP",
+            "Free [Mother Slime] appears <upon defeating a [Military] unit>",
+			"[This Unit] is destroyed <upon defeating a [Military] unit>"
+            
+        ],
+        "promotions": ["Time 10","Primal Slime"]
+    },
+
+
+
+
+
+
+
+
+    {
+        "name": "Ebonian Blight Slime",
+        "unitType": "Adaptive Slime",
+        "movement": 2,
+        "strength": 18,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [149] [Slime Knowledge]> <when below [300] [Slime Knowledge]>",
+            "[+100] Max HP",
+            "[Target Unit] gains the [Weakness] status for [4] turn(s) <upon damaging a [Military] unit>"
+        ],
+        "promotions": ["Time 10","Adaptive Slime"]
+    },
+    {
+        "name": "Crimulan Blight Slime",
+        "unitType": "Adaptive Slime",
+        "movement": 2,
+        "strength": 18,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [149] [Slime Knowledge]> <when below [300] [Slime Knowledge]>",
+            "[+100] Max HP",
+            "[Target Unit] gains the [Darkness] status for [4] turn(s) <upon damaging a [Military] unit>"
+        ],
+        "promotions": ["Time 10","Adaptive Slime"]
+    },
+    {
+        "name": "Aero Slime",
+        "unitType": "Adaptive Slime",
+        "movement": 3,
+        "strength": 14,
+        "rangedStrength": 14,
+		"range": 2,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [149] [Slime Knowledge]> <when below [300] [Slime Knowledge]>",
+            "[+75] Max HP",
+            "Ranged attacks may be performed over obstacles",
+            "[Target Unit] gains the [Chill] status for [2] turn(s) <upon damaging a [Military] unit>"
+        ],
+        "promotions": ["Time 10","Adaptive Slime"]
+    },
+    {
+        "name": "Astral Slime",
+        "unitType": "Adaptive Slime",
+        "movement": 3,
+        "strength": 15,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [149] [Slime Knowledge]> <when below [300] [Slime Knowledge]>",
+            "[+75] Max HP",
+            "Invisible to non-adjacent units",
+            "Can move after attacking",
+            "[Target Unit] gains the [Phantom Star Infection] status for [3] turn(s) <upon damaging a [Military] unit>"
+        ],
+        "promotions": ["Time 10","Adaptive Slime"]
+    },
+
+
+
+
+
+
+
+
+    {
+        "name": "Infernal Slime",
+        "unitType": "Evolution Slime",
+        "movement": 3,
+        "strength": 24,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [299] [Slime Knowledge]>",
+            "[+150] Max HP",
+            "[2] additional attacks per turn",
+            "[Target Unit] gains the [Sulfur Fire] status for [2] turn(s) <upon damaging a [Military] unit>"
+        ],
+        "promotions": ["Time 10","Evolution Slime"]
+    },
+    {
+        "name": "Cryo Slime",
+        "unitType": "Evolution Slime",
+        "movement": 3,
+        "strength": 21,
+        "rangedStrength": 21,
+		"range": 2,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [299] [Slime Knowledge]>",
+            "[+150] Max HP",
+            "[2] additional attacks per turn",
+            "[Target Unit] gains the [Frost] status for [2] turn(s) <upon damaging a [Military] unit>"
+        ],
+        "promotions": ["Time 10","Evolution Slime"]
+    },
+    {
+        "name": "Perennial Slime",
+        "unitType": "Evolution Slime",
+        "movement": 4,
+        "strength": 26,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [299] [Slime Knowledge]>",
+            "[+175] Max HP",
+            "[1] additional attacks per turn",
+            "[This Unit] heals [25] HP <upon turn start>"
+        ],
+        "promotions": ["Time 10","Evolution Slime"]
+    },
+    {
+        "name": "Pestilent Slime",
+        "unitType": "Evolution Slime",
+        "movement": 3,
+        "strength": 26,
+        "rangedStrength": 24,
+		"range": 3,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [299] [Slime Knowledge]>",
+            "[+200] Max HP",
+            "[1] additional attacks per turn",
+            "[Target Unit] gains the [Plague] status for [3] turn(s) <upon damaging a [Military] unit>"
+        ],
+        "promotions": ["Time 10","Evolution Slime"]
+    },
+    {
+        "name": "Bloom Slime",
+        "unitType": "Evolution Slime",
+        "movement": 4,
+        "strength": 28,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [299] [Slime Knowledge]>",
+            "[+200] Max HP",
+            "[1] additional attacks per turn",
+            "Can move after attacking"
+        ],
+        "promotions": ["Time 10","Evolution Slime"]
+    },
+    {
+        "name": "Irradiated Slime",
+        "unitType": "Evolution Slime",
+        "movement": 4,
+        "strength": 26,
+        "rangedStrength": 24,
+		"range": 2,
+        "cost": 10,
+        "uniques": [
+            "Only available <when above [299] [Slime Knowledge]>",
+            "[+200] Max HP",
+            "[1] additional attacks per turn",
+            "[Target Unit] gains the [Irradiated] status for [3] turn(s) <upon damaging a [Military] unit>"
+        ],
+        "promotions": ["Time 10","Evolution Slime"]
+    },
+
+
+
+
+
+
+    {
+        "name": "King Slime",
+        "unitType": "Leader Slime",
+        "movement": 4,
+        "strength": 25,
+        "cost": 10,
+        "uniques": [
+            "[+1]% Strength bonus for [Military] units within [5] tiles <hidden from users>",
+            "Instantly provides [100] [Slime Knowledge] <upon being defeated> <hidden from users>",
+            "Never appears as a Barbarian unit",
+            "[+300] Max HP",
+            "Devouring Gel",
+            "Trigger the function [Retrace:DevouringGel] with [0] <upon turn start> <hidden from users>",//史莱姆王吞噬
+            "Tremor Stomp",
+            "Attacks also target [Military] units within [1] tiles <hidden from users>",
+            "Burrow Transfer",
+            "Trigger the function [Retrace:BurrowTransfer] with [0] <upon turn end> <hidden from users>",//史莱姆王潜地
+            "Gel Polymerization",
+            //"[1] free [Blue Slime] units appear <upon entering combat> <hidden from users>"
+            "[1] free [Blue Slime] units appear <upon losing at least [15] HP in a single attack> <hidden from users>"
+            
+        ],
+        "promotions": ["Leader Slime"]
+    },
+
+
+    {
+        "name": "Queen Slime - Phase 1",
+        "unitType": "Leader Slime",
+        "movement":3,
+        "strength": 40,
+        "cost": 10,
+        "uniques": [
+            "[+1]% Strength bonus for [Military] units within [5] tiles <hidden from users>",
+            //"Free [Queen Slime - Phase 2] appears <upon being defeated>",
+            "[1] [Queen Slime - Phase 2]s rebel <upon being defeated>",
+            "Never appears as a Barbarian unit",
+            "[+200] Max HP",
+            "Burst Gel",
+            "Trigger the function [Retrace:BurstGel] with [0] <upon turn start> <hidden from users>",//女王刷兵
+            "Crystal Storm",
+            "Attacks also target [Military] units within [1] tiles <hidden from users>",
+            "Holy Leap",
+            "Trigger the function [Retrace:BurrowTransfer] with [0] <upon turn end> <hidden from users>",//史莱姆王潜地
+            "Holy Radiance",
+            "[+1] Movement <when below [190] HP> <hidden from users>",
+            "[+4] Strength <when below [190] HP> <hidden from users>",
+            "[+1] Movement <when below [120] HP> <hidden from users>",
+            "[+4] Strength <when below [120] HP> <hidden from users>",
+            "[+1] Movement <when below [75] HP> <hidden from users>",
+            "[+4] Strength <when below [75] HP> <hidden from users>",
+            
+        ],
+        "promotions": ["Leader Slime"]
+    },
+    {
+        "name": "Queen Slime - Phase 2",
+        "unitType": "Leader Slime",
+        "movement": 5,
+        "strength": 30,
+        "rangedStrength": 30,
+		"range": 2,
+        "cost": 10,
+        "uniques": [
+            "[+1]% Strength bonus for [Military] units within [5] tiles <hidden from users>",
+            "Instantly provides [100] [Slime Knowledge] <upon being defeated> <hidden from users>",
+            "Never appears as a Barbarian unit",
+            "[+200] Max HP",
+            "Ignores Zone of Control",
+            "Burst Gel",
+            "Trigger the function [Retrace:BurstGel] with [0] <upon turn start> <hidden from users>",//女王刷兵
+            "Crystal Storm",
+            "Attacks also target [Military] units within [1] tiles <hidden from users>",
+            "Holy Leap",
+            "Trigger the function [Retrace:BurrowTransfer] with [0] <upon turn end> <hidden from users>",//史莱姆王潜地
+            "Holy Radiance",
+            "[1] additional attacks per turn <when below [190] HP> <hidden from users>",
+            "[+4] Strength <when below [190] HP> <hidden from users>",
+            "[1] additional attacks per turn <when below [120] HP> <hidden from users>",
+            "[+4] Strength <when below [120] HP> <hidden from users>",
+            "[1] additional attacks per turn <when below [75] HP> <hidden from users>",
+            "[+4] Strength <when below [75] HP> <hidden from users>",
+        ],
+        "promotions": ["Leader Slime"]
+    },
+    {
+        "name": "Bouncy Slime",
+        "unitType": "Adaptive Slime",
+        "movement":2,
+        "strength": 17,
+        "cost": 10,
+        "uniques": [
+            "Never appears as a Barbarian unit",
+            "[+75] Max HP"
+        ],
+        "promotions": ["Adaptive Slime"]
+    },
+    {
+        "name": "Heavenly Slime",
+        "unitType": "Adaptive Slime",
+        "movement": 3,
+        "strength": 15,
+        "cost": 10,
+        "uniques": [
+            "Never appears as a Barbarian unit",
+            "[+75] Max HP",
+            "Can move after attacking"
+        ],
+        "promotions": ["Adaptive Slime"]
+    },
+    {
+        "name": "Crystal Slime",
+        "unitType": "Adaptive Slime",
+        "movement": 2,
+        "strength": 13,
+        "rangedStrength": 14,
+		"range": 2,
+        "cost": 10,
+        "uniques": [
+            "Never appears as a Barbarian unit",
+            "[+75] Max HP"
+        ],
+        "promotions": ["Adaptive Slime"]
+    },
+
+
+
+    {
+        "name": "The Slime God Core",
+        "unitType": "Leader Slime",
+        "movement": 2,
+        "strength": 500,
+        "rangedStrength": 500,
+		"range": 4,
+        "cost": 10,
+        "uniques": [
+            "[+1]% Strength bonus for [Military] units within [5] tiles <hidden from users>",
+            "Instantly provides [-1000] [Slime Knowledge] <upon being defeated> <hidden from users>",
+            "Never appears as a Barbarian unit",
+            "[+900] Max HP",
+            "[1] additional attacks per turn",
+            "Gel Guardian",
+            "[-450] Strength <when defending> <when number of [[Ebonian Paladin] Units] is less than [1]> <when number of [[Crimulan Paladin] Units] is less than [1]> <hidden from users>",
+            "[-450] Strength <when attacking> <hidden from users>",
+            "Withering Gel",
+            "Pure Gel",
+            "Arcane Resonance",
+            "[This Unit] gains the [Arcane Resonance] promotion <when number of [[Ebonian Paladin] Units] is less than [1]> <when number of [[Crimulan Paladin] Units] is less than [1]> <upon turn end> <hidden from users>",
+            
+            
+        ],
+        "promotions": ["Leader Slime"]
+    },
+    {
+        "name": "Ebonian Paladin",
+        "unitType": "Leader Slime",
+        "movement": 4,
+        "strength": 40,
+        "cost": 10,
+        "uniques": [
+            "Never appears as a Barbarian unit",
+            "[+350] Max HP",
+            "[1] additional attacks per turn",
+            "Trigger the function [Retrace:WitheringGel] with [0] <when number of [[turns] % 5] is equal to [0]> <upon turn start> <hidden from users>",//群体转换夺取
+            
+        ],
+        "promotions": ["Leader Slime"]
+    },
+    {
+        "name": "Crimulan Paladin",
+        "unitType": "Leader Slime",
+        "movement": 4,
+        "strength": 40,
+        "cost": 10,
+        "uniques": [
+            "Never appears as a Barbarian unit",
+            "[+350] Max HP",
+            "[1] additional attacks per turn",
+            "Trigger the function [Retrace:PureGel] with [0] <when number of [[turns] % 5] is equal to [3]> <upon turn start> <hidden from users>"//视野内心控
+            
+        ],
+        "promotions": ["Leader Slime"]
+    },
+    
+    
+    {
+        "name": "Information Carrier",
+        "unitType": "Primal Slime",
+        "movement": 1,
+        "cost": 10,
+        "uniques": [
+            "Never appears as a Barbarian unit",
+            "Instantly provides [1] [Slime Knowledge] <upon entering a [Barbarian encampment] tile>",
+            "[This Unit] is destroyed <upon entering a [Barbarian encampment] tile>",
+            "Instantly provides [1] [Slime Knowledge] <in [Barbarian encampment] tiles> <upon turn start>",
+            "[This Unit] is destroyed <in [Barbarian encampment] tiles> <upon turn end>",
+        ],
+        "promotions": ["Primal Slime"]
+    },
+    
+]

@@ -1,0 +1,204 @@
+[
+    
+    
+    
+    {
+    "name": "Slime",
+    "uniques": [
+    "Slime",
+
+    ],
+    },
+    {
+    "name": "Primal Slime",
+    "uniques": [
+    "Primal Slime",
+    "Slime",
+    ],
+    },
+    {
+    "name": "Adaptive Slime",
+    "uniques": [
+    "Adaptive Slime",
+    "Slime",
+    ],
+    },
+    {
+    "name": "Evolution Slime",
+    "uniques": [
+    "Evolution Slime",
+    "Slime",
+    ],
+    },
+    {
+    "name": "Leader Slime",
+    "uniques": [
+    "Leader Slime",
+    "Slime",
+    ],
+    },
+
+
+
+
+
+
+    {
+    "name": "Arcane Resonance",
+    "uniques": [
+    "Trigger the function [Retrace:ArcaneResonance] with [0] <hidden from users>",//范围真伤
+    //"Free [Ebonian Paladin] appears",
+    //"Free [Crimulan Paladin] appears",
+    "[1] [Ebonian Paladin]s rebel",
+    "[1] [Crimulan Paladin]s rebel",
+    "Doing so will consume this opportunity to choose a Promotion"
+    ],
+    },
+    
+    
+    
+    
+    
+    {
+    "name": "Time 10",
+    "uniques": [
+    "[This Unit] gains the [Time 9] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 9",
+    "uniques": [
+    "[This Unit] gains the [Time 8] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 8",
+    "uniques": [
+    "[This Unit] gains the [Time 7] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 7",
+    "uniques": [
+    "[This Unit] gains the [Time 6] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 6",
+    "uniques": [
+    "[This Unit] gains the [Time 5] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 5",
+    "uniques": [
+    "[This Unit] gains the [Time 4] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 4",
+    "uniques": [
+    "[This Unit] gains the [Time 3] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 3",
+    "uniques": [
+    "[This Unit] gains the [Time 2] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 2",
+    "uniques": [
+    "[This Unit] gains the [Time 1] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 1",
+    "uniques": [
+    "[This Unit] gains the [Time 0] promotion <upon turn end>",
+    ],
+    },
+    {
+    "name": "Time 0",
+    "uniques": [
+        "Free [Information Carrier] appears",
+    ],
+    },
+    
+    
+    
+
+
+
+
+    {
+    "name": "Darkness",//黑暗
+    "uniques": [
+        "[-3] Sight"
+    ],
+    },
+    {
+    "name": "Weakness",//虚弱
+    "uniques": [
+        "[-1] Movement",
+        "[-10]% Strength",
+        "Rough terrain penalty"
+    ],
+    },
+    {
+    "name": "Phantom Star Infection",//幻星感染
+    "uniques": [
+        "[This Unit] takes [12] damage <upon turn start>",
+        "Can only heal by pillaging"
+    ],
+    },
+    {
+    "name": "Chill",//寒冷
+    "uniques": [
+        "[-1] Movement",
+        "Rough terrain penalty",
+        "Can only heal by pillaging"
+    ],
+    },
+    {
+    "name": "Sulfur Fire",//硫磺火
+    "uniques": [
+        "[This Unit] takes [15] damage <upon turn start>",
+        "Can only heal by pillaging"
+    ],
+    },
+    {
+    "name": "Plague",//瘟疫
+    "uniques": [
+        "[This Unit] takes [12] damage <upon turn start>",
+        "Can only heal by pillaging"
+        
+    ],
+    },
+    {
+    "name": "Frost",//霜冻
+    "uniques": [
+        "[This Unit] takes [8] damage <upon turn start>"
+        
+    ],
+    },
+    {
+    "name": "Irradiated",//辐射
+    "uniques": [
+        "[-20]% Strength",
+        "[This Unit] takes [2] damage <upon turn start>"
+        
+    ],
+    },
+    
+
+
+
+
+
+
+
+
+
+]

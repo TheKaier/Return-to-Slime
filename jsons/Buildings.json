@@ -1,0 +1,66 @@
+[
+    {
+        "name": "The Slime God Core",
+        "cost": 0,
+        //"isNationWonder": true,
+        "uniques":[
+        "Only available <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is less than [-10]>",
+        "Unsellable",
+        "Automatically built in all cities where it is buildable"
+        ]
+    },
+    {
+        "name": "King Slime",
+        "cost": 0,
+        //"isNationWonder": true,
+        "isWonder": true,
+        "quote": "The vanguard has arrived.The ground beneath your feet is hardening."
+        "uniques":[
+        "Only available <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is more than [50]> <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is less than [150]>",
+        "Unsellable",
+        "Will not be displayed in Civilopedia",
+        "Remove [King Slime] [in this city] <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is more than [149]> <upon turn start>",
+        "Automatically built in all cities where it is buildable"
+        ]
+    },
+    {
+        "name": "Queen Slime",
+        "cost": 0,
+        //"isNationWonder": true,
+        "isWonder": true,
+        "quote": "The sky crystallizes under her breath.The earth sublimates at her footsteps."
+        "uniques":[
+        "Only available <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is more than [199]> <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is less than [300]>",
+        "Unsellable",
+        "Will not be displayed in Civilopedia",
+        "Remove [Queen Slime] [in this city] <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is more than [299]> <upon turn start>",
+        "Automatically built in all cities where it is buildable"
+        ]
+    },
+    {
+        "name": "The Slime God",
+        "cost": 0,
+        //"isNationWonder": true,
+        "isWonder": true,
+        "quote": "No form, no boundary, no beginning, no end."
+        "uniques":[
+        "Only available <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is more than [349]>",
+        "Unsellable",
+        "Will not be displayed in Civilopedia",
+        "Remove [The Slime God] [in this city] <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is less than [-10]> <upon turn start>",
+        "Automatically built in all cities where it is buildable"
+        ]
+    },
+    
+
+
+
+
+
+
+
+
+
+
+
+]
