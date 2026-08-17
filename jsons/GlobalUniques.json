@@ -20,8 +20,8 @@
     "Free [Information Carrier] appears <upon defeating a [Military] unit> <for [Slime] units>",
     "[This Unit] is destroyed <when above [0] [Gel]> <upon turn start> <for [{non-[Slime]} {Civilian}] units>",
     "[This Unit] is destroyed <when below [1] [Gel]> <upon turn start> <for [Slime] units>",
-
-
+    "Can only attack [Military] units <for [Slime] units>",
+    "[+1]% Strength <for every [1] [Gel]> <for [Slime] units> <when [Gel] Victory is enabled>"
 
 
     

@@ -14,9 +14,9 @@
         "movementType": "Land"
         "uniques": [
         "Only available <when above [0] [Gel]>",
-        "Instantly provides [1] [Gel] <upon losing at least [25] HP in a single attack>",
-    "Instantly provides [1] [Gel] <upon losing at least [30] HP in a single attack>",
-    "Instantly provides [1] [Gel] <upon losing at least [35] HP in a single attack>",
+        //"Instantly provides [1] [Gel] <upon losing at least [25] HP in a single attack>",
+    //"Instantly provides [1] [Gel] <upon losing at least [30] HP in a single attack>",
+    //"Instantly provides [1] [Gel] <upon losing at least [35] HP in a single attack>",
     "Instantly provides [1] [Gel] <upon losing at least [40] HP in a single attack>",
     "Instantly provides [1] [Gel] <upon losing at least [50] HP in a single attack>",
     "Instantly provides [5] [Gel] <upon losing at least [60] HP in a single attack>",
@@ -31,10 +31,10 @@
         "movementType": "Land"
         "uniques": [
         "Only available <when above [0] [Gel]>",
-        "Instantly provides [1] [Gel] <upon losing at least [25] HP in a single attack>",
-    "Instantly provides [1] [Gel] <upon losing at least [30] HP in a single attack>",
-    "Instantly provides [1] [Gel] <upon losing at least [35] HP in a single attack>",
-    "Instantly provides [1] [Gel] <upon losing at least [40] HP in a single attack>",
+        //"Instantly provides [1] [Gel] <upon losing at least [25] HP in a single attack>",
+    //"Instantly provides [1] [Gel] <upon losing at least [30] HP in a single attack>",
+    //"Instantly provides [1] [Gel] <upon losing at least [35] HP in a single attack>",
+    //"Instantly provides [1] [Gel] <upon losing at least [40] HP in a single attack>",
     "Instantly provides [1] [Gel] <upon losing at least [50] HP in a single attack>",
     "Instantly provides [5] [Gel] <upon losing at least [60] HP in a single attack>",
     "Instantly provides [5] [Gel] <upon losing at least [70] HP in a single attack>",
@@ -48,9 +48,9 @@
         "movementType": "Land"
         "uniques": [
         "Only available <when above [0] [Gel]>",
-        "Instantly provides [2] [Gel] <upon losing at least [25] HP in a single attack>",
-    "Instantly provides [2] [Gel] <upon losing at least [30] HP in a single attack>",
-    "Instantly provides [3] [Gel] <upon losing at least [35] HP in a single attack>",
+        //"Instantly provides [2] [Gel] <upon losing at least [25] HP in a single attack>",
+    //"Instantly provides [2] [Gel] <upon losing at least [30] HP in a single attack>",
+    //"Instantly provides [3] [Gel] <upon losing at least [35] HP in a single attack>",
     "Instantly provides [5] [Gel] <upon losing at least [40] HP in a single attack>",
     "Instantly provides [5] [Gel] <upon losing at least [50] HP in a single attack>",
     "Instantly provides [10] [Gel] <upon losing at least [60] HP in a single attack>",

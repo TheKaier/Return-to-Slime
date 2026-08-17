@@ -10,6 +10,16 @@
         ]
     },
     {
+        "name": "Gel",
+        "cost": 0,
+        //"isNationWonder": true,
+        "uniques":[
+        "Only available <when number of [[[Slime Knowledge] resource of [Barbarians] Civilizations]] is less than [-10]>",
+        "Unsellable",
+        "Automatically built in all cities where it is buildable"
+        ]
+    },
+    {
         "name": "King Slime",
         "cost": 0,
         //"isNationWonder": true,

@@ -4,6 +4,20 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Gel
+  rotate: false
+  xy: 157, 10
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+ResourceIcons/Gel
+  rotate: false
+  xy: 157, 10
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
 BuildingIcons/King Slime
   rotate: false
   xy: 383, 108
@@ -93,13 +107,6 @@ UnitIcons/The Slime God Core
   xy: 883, 76
   size: 50, 50
   orig: 50, 50
-  offset: 0, 0
-  index: -1
-ResourceIcons/Gel
-  rotate: false
-  xy: 157, 10
-  size: 16, 14
-  orig: 16, 14
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Gelatinous Terrain

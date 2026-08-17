@@ -6,7 +6,14 @@
         "victoryString": "It is dead. Or rather, it has finally stopped thinking. That mass of gel carrying billions of memories evaporated under the firepower of civilization, leaving only a gelatinous land—the sole evidence that it ever existed. You win. But your generals are silent after the battle. Because everyone asks the same question: Did we defeat the last Slime God, or the first?",
         "defeatString": ""
     },
-
+    {
+        "name": "Gel",
+        "hiddenInVictoryScreen":true,
+        "victoryScreenHeader": "",
+        "milestones": ["Build [Gel]",],
+        "victoryString": "",
+        "defeatString": ""
+    },
 
 
 ]

@@ -441,7 +441,7 @@
             "Never appears as a Barbarian unit",
             "[+350] Max HP",
             "[1] additional attacks per turn",
-            "Trigger the function [Retrace:WitheringGel] with [0] <when number of [[turns] % 5] is equal to [0]> <upon turn start> <hidden from users>",//群体转换夺取
+            "Trigger the function [Retrace:WitheringGel] with [0] <when number of [[turns] % 6] is equal to [0]> <upon turn start> <hidden from users>",//群体转换夺取
             
         ],
         "promotions": ["Leader Slime"]
@@ -456,7 +456,7 @@
             "Never appears as a Barbarian unit",
             "[+350] Max HP",
             "[1] additional attacks per turn",
-            "Trigger the function [Retrace:PureGel] with [0] <when number of [[turns] % 5] is equal to [3]> <upon turn start> <hidden from users>"//视野内心控
+            "Trigger the function [Retrace:PureGel] with [0] <when number of [[turns] % 6] is equal to [3]> <upon turn start> <hidden from users>"//视野内心控
             
         ],
         "promotions": ["Leader Slime"]
