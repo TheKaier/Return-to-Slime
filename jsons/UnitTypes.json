@@ -296,4 +296,81 @@
             "Never appears as a Barbarian unit",
         ]
     },
+
+
+
+
+
+    //lm2
+    {
+        "name": "Civilian",
+        "movementType": "Land"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water"
+        "uniques": ["Never appears as a Barbarian unit",]
+    },
+    {
+        "name": "Reconnaissance",
+        "movementType": "Land"
+        "uniques":["Never appears as a Barbarian unit",]    
+    },
+    {
+        "name": "Foot Soldier",
+        "movementType": "Land"
+        "uniques":["Never appears as a Barbarian unit",]    
+    },
+    {
+        "name": "Shooter",
+        "movementType": "Land"
+        "uniques":["Never appears as a Barbarian unit",]        
+    },
+    {
+        "name": "Mobile",
+        "movementType": "Land"
+        "uniques":["Never appears as a Barbarian unit",]        
+    },
+    {
+        "name": "Anti-Mobile",
+        "movementType": "Land"
+        "uniques":["Never appears as a Barbarian unit",]        
+    },
+    {
+        "name": "Anti-Air",
+        "movementType": "Land"
+        "uniques":["Never appears as a Barbarian unit",]            
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land",    
+        "uniques":["Never appears as a Barbarian unit",]                    
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land"
+        "uniques":["Never appears as a Barbarian unit",]        
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water"
+        "uniques":["Never appears as a Barbarian unit",]                    
+    },
+    {
+        "name": "Ranged Water",
+        "movementType": "Water"
+        "uniques":["Never appears as a Barbarian unit",]                    
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques":["Never appears as a Barbarian unit",]                    
+    },
+    {
+        "name": "Water Carrier",
+        "movementType": "Water"
+        "uniques":["Never appears as a Barbarian unit",]                    
+    },
+
 ]
